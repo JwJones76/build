@@ -1,0 +1,16 @@
+.mint-message {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: .5%;
+}
+
+body {
+    background-image: linear-gradient(rgba(1, 1, 1, 0.5),rgba(1, 1, 1, 0.5)),url(media/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 98.5vh;
+    margin: 0;
+    padding: 0;
+}
